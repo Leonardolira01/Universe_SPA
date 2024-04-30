@@ -24,7 +24,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 - JavaScript | Controla as funções do programa
 - Git e Github | Controle de Versão do código
 
-## 🔖 Deploy
+## 🔖 Deploy!
 [Acesse o projeto](https://leonardolira01.github.io/SPA_Universe/)
 
 Feito por Leonardo Lira  - [Veja mais projetos no meu Linkedin](https://www.linkedin.com/in/leonardoliradev/)
