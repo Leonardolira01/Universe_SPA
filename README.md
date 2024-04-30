@@ -6,7 +6,8 @@ Site desenvolvido por <a href="https://www.linkedin.com/in/leonardoliradev/">Leo
 </p>
 
 ### FIGMA:
-![Captura de Tela 2024-04-29 às 23 19 31](https://github.com/Leonardolira01/SPA_Universe/assets/67601166/29eaf196-5a49-49e1-85b0-410434da3e7b)
+![Captura de Tela 2024-04-30 às 13 03 23](https://github.com/Leonardolira01/Universe_SPA/assets/67601166/a2472d2c-e988-477f-a69b-fd2ed371ec62)
+
 
 
 <br>
