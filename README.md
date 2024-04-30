@@ -19,10 +19,10 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 - Mapeamento de rotas;
 - Assíncrono e promises;
 - Orientação a objetos;
-- Classes e muito mais.
-- CSS | Estilização da aplicação
-- JavaScript | Controla as funções do programa
-- Git e Github | Controle de Versão do código
+- Classes e muito mais;
+- CSS | Estilização da aplicação;
+- JavaScript | Controla as funções do programa;
+- Git e Github | Controle de Versão do código.
 
 ## 🔖 Deploy!
 [Acesse o projeto](https://leonardolira01.github.io/SPA_Universe/)
