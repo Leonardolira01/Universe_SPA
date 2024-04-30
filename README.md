@@ -26,6 +26,5 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 - Git e Github | Controle de Versão do código.
 
 ## 🔖 Deploy!
-[Acesse o projeto](https://leonardolira01.github.io/SPA_Universe/)
 
 Feito por Leonardo Lira  - [Veja mais projetos no meu Linkedin](https://www.linkedin.com/in/leonardoliradev/)
