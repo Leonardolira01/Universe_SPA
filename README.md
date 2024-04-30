@@ -19,9 +19,9 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 - Mapeamento de rotas;
 - Assíncrono e promises;
 - Orientação a objetos;
-- Classes e muito mais;
-- CSS | Estilização da aplicação;
-- JavaScript | Controla as funções do programa;
+- Classes e muito mais
+- CSS | Estilização da aplicação
+- JavaScript | Controla as funções do programa
 - Git e Github | Controle de Versão do código.
 
 ## 🔖 Deploy!
